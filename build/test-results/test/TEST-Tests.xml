@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="30" skipped="0" failures="0" errors="0" timestamp="2021-06-01T00:52:00" hostname="MacBook-Pro-de-Oscar-6.local" time="0.067">
+  <properties/>
+  <testcase name="getIndexOfEdgeMajor()" classname="Tests" time="0.02"/>
+  <testcase name="getIndexOfEdgeMinor()" classname="Tests" time="0.0"/>
+  <testcase name="RemoveOutOfBoundsElement()" classname="Tests" time="0.001"/>
+  <testcase name="itemDoesExists()" classname="Tests" time="0.001"/>
+  <testcase name="RemoveFirstElement()" classname="Tests" time="0.02"/>
+  <testcase name="addItemsByToStringCheckOrder()" classname="Tests" time="0.001"/>
+  <testcase name="getByIndexOutOfBOunds()" classname="Tests" time="0.001"/>
+  <testcase name="testClearWithFullListByTriggeringException()" classname="Tests" time="0.001"/>
+  <testcase name="itemDoesNotExists()" classname="Tests" time="0.001"/>
+  <testcase name="getIndexOfUnexistingElement()" classname="Tests" time="0.001"/>
+  <testcase name="addItemsBySize()" classname="Tests" time="0.0"/>
+  <testcase name="RemoveTheLastElement()" classname="Tests" time="0.001"/>
+  <testcase name="testClearByCheckingToString()" classname="Tests" time="0.001"/>
+  <testcase name="addItemsByToString()" classname="Tests" time="0.0"/>
+  <testcase name="testClearWithFullList()" classname="Tests" time="0.001"/>
+  <testcase name="getIndexOfEdgeMiddle()" classname="Tests" time="0.001"/>
+  <testcase name="RemoveTheOnlyElement()" classname="Tests" time="0.001"/>
+  <testcase name="RemoveMiddleElement()" classname="Tests" time="0.0"/>
+  <testcase name="getIndexOfEmptyList()" classname="Tests" time="0.0"/>
+  <testcase name="getByIndexWithRemoval()" classname="Tests" time="0.0"/>
+  <testcase name="getByIndexEdgeMajor()" classname="Tests" time="0.001"/>
+  <testcase name="getByIndexEdgeMinor()" classname="Tests" time="0.0"/>
+  <testcase name="testClearWithNullList()" classname="Tests" time="0.0"/>
+  <testcase name="testSizeEmpty()" classname="Tests" time="0.0"/>
+  <testcase name="testSizeWithElements()" classname="Tests" time="0.001"/>
+  <testcase name="getByIndex()" classname="Tests" time="0.0"/>
+  <testcase name="testClearWithEmptyList()" classname="Tests" time="0.0"/>
+  <testcase name="testSizeWithNull()" classname="Tests" time="0.001"/>
+  <testcase name="itemExistedButRemoved()" classname="Tests" time="0.0"/>
+  <testcase name="testSizeWithRemoval()" classname="Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
